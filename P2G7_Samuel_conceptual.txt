@@ -1,0 +1,23 @@
+1. Jelaskan apa yang dimaksud dengan NoSQL menggunakan pemahaman yang kalian ketahui !
+NoSQL adalah jenis teknologi database yang berbeda dari database relasional. Database ini dirancang 
+untuk menyimpan dan mengelola data yang lebih fleksibel, seperti data yang tidak memiliki struktur tetap 
+atau berubah-ubah. NoSQL sering digunakan untuk aplikasi web, media sosial, dan data yang tumbuh cepat. 
+Database NoSQL tidak mengikuti aturan ketat seperti tabel dalam database relasional, yang membuatnya lebih 
+cocok untuk situasi di mana data sangat dinamis.
+
+
+2. Jelaskan kapan harus menggunakan NoSQL dan Relational Database Management System !
+Gunakan NoSQL ketika memiliki data yang sangat besar atau berubah-ubah dengan cepat. NoSQL cocok untuk 
+aplikasi yang perlu skalabilitas horizontal (menambah server ketika data bertambah), serta ketika Anda 
+tidak memiliki skema data yang tetap. Di sisi lain, gunakan Relational Database Management System (RDBMS) 
+ketika Anda memiliki data dengan struktur tetap, seperti data yang terhubung erat satu sama lain (seperti 
+data pelanggan dan pesanan) atau ketika konsistensi data sangat penting.
+
+
+3. Sebutkan contoh 2 tools/platform NoSQL selain ElasticSearch beserta keunggulan tools/platform tersebut
+Contoh 2 tools/platform NoSQL selain Elasticsearch adalah:
+a. MongoDB: MongoDB adalah database dokumen yang fleksibel dan mudah diatur. Keunggulan MongoDB termasuk 
+skalabilitas horizontal yang baik, kinerja yang cepat, dan dukungan untuk data semi-struktur.
+b. Cassandra: Cassandra adalah database kolom yang didistribusikan. Keunggulan Cassandra termasuk 
+skalabilitas yang sangat baik untuk aplikasi dengan jumlah data besar, toleransi terhadap kegagalan, dan 
+kemampuan untuk mengelola data dengan tingkat konsistensi yang dapat disesuaikan.

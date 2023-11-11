@@ -1,0 +1,101 @@
+id,timestamp,gender,age,subject,current_year_study,cgpa,marital_status,have_depression,have_anxiety,panic_attack,specialist_treatment
+1,2020-07-08,Female,18,engineering,year 1,3.00 - 3.49,No,True,False,True,False
+2,2020-07-08,Male,21,pendidikan Islam,year 2,3.00 - 3.49,No,False,True,False,False
+3,2020-07-08,Male,19,bit,year 1,3.00 - 3.49,No,True,True,True,False
+4,2020-07-08,Female,22,laws,year 3,3.00 - 3.49,Yes,True,False,False,False
+5,2020-07-08,Male,23,mathemathics,year 4,3.00 - 3.49,No,False,False,False,False
+6,2020-07-08,Male,19,engineering,year 2,3.50 - 4.00,No,False,False,True,False
+7,2020-07-08,Female,23,pendidikan islam,year 2,3.50 - 4.00,Yes,True,False,True,False
+8,2020-07-08,Female,18,bcs,year 1,3.50 - 4.00,No,False,True,False,False
+9,2020-07-08,Female,19,human resources,year 2,2.50 - 2.99,No,False,False,False,False
+10,2020-07-08,Male,18,irkhs,year 1,3.50 - 4.00,No,False,True,True,False
+11,2020-07-08,Female,20,psychology,year 1,3.50 - 4.00,No,False,False,False,False
+12,2020-07-08,Female,24,engineering,year 3,3.50 - 4.00,Yes,True,False,False,False
+13,2020-07-08,Female,18,bcs,year 1,3.00 - 3.49,No,True,False,False,False
+14,2020-07-08,Male,19,engineering,year 1,3.00 - 3.49,No,False,False,False,False
+15,2020-07-08,Female,18,kenms,year 2,3.50 - 4.00,No,False,True,False,False
+16,2020-07-08,Male,24,bcs,year 3,3.50 - 4.00,No,False,False,False,False
+17,2020-07-08,Female,24,accounting,year 3,3.00 - 3.49,No,False,False,False,False
+18,2020-07-08,Female,24,enm,year 4,3.00 - 3.49,Yes,True,True,True,False
+19,2020-07-08,Female,20,bit,year 2,3.50 - 4.00,No,False,True,False,False
+20,2020-07-08,Female,18,marine science,year 2,3.50 - 4.00,Yes,True,True,True,False
+21,2020-07-08,Female,19,engineering,year 1,3.00 - 3.49,No,False,False,True,False
+22,2020-07-08,Female,18,koe,year 2,3.00 - 3.49,No,False,False,False,False
+23,2020-07-08,Female,24,bcs,year 1,3.50 - 4.00,No,False,False,False,False
+24,2020-07-08,Female,24,engineering,year 1,3.00 - 3.49,No,False,False,False,False
+25,2020-07-08,Female,23,bcs,year 3,3.50 - 4.00,No,True,True,True,False
+26,2020-07-08,Female,18,banking studies,year 1,3.50 - 4.00,No,False,False,False,False
+27,2020-07-08,Female,19,engineering,year 1,3.50 - 4.00,No,False,False,False,False
+28,2020-07-08,Male,18,engineering,year 2,3.00 - 3.49,Yes,True,True,False,False
+29,2020-07-08,Female,24,bit,year 3,3.50 - 4.00,Yes,True,True,True,True
+30,2020-07-08,Female,24,bcs,year 4,3.50 - 4.00,No,False,False,False,False
+31,2020-07-08,Female,23,business administration,year 2,3.00 - 3.49,No,False,False,False,False
+32,2020-07-08,Male,18,bcs,year 2,3.00 - 3.49,No,False,False,False,False
+33,2020-07-08,Male,19,bcs,year 1,3.50 - 4.00,No,False,False,True,False
+34,2020-07-08,Male,18,bcs,year 2,3.50 - 4.00,Yes,True,True,False,True
+35,2020-07-08,Female,19,bit,year 1,3.00 - 3.49,No,True,True,True,False
+36,2020-07-08,Female,18,engineering,year 1,2.00 - 2.49,No,False,False,False,False
+37,2020-07-08,Female,18,law,year 3,3.00 - 3.49,No,True,True,False,False
+38,2020-07-08,Female,19,bit,year 1,2.50 - 2.99,No,True,True,True,False
+39,2020-07-08,Female,18,kirkhs,year 1,3.50 - 4.00,No,False,False,False,False
+40,2020-07-08,Female,24,engineering,year 2,2.50 - 2.99,Yes,True,False,True,True
+41,2020-07-08,Female,24,bit,year 3,3.00 - 3.49,No,False,True,False,False
+42,2020-07-08,Female,22,engineering,year 4,3.50 - 4.00,No,False,False,False,False
+43,2020-07-08,Female,20,usuluddin,year 2,3.00 - 3.49,No,True,False,False,False
+45,2020-07-08,Male,23,taasl,year 2,3.50 - 4.00,No,False,False,True,False
+46,2020-07-08,Male,18,bcs,year 1,3.50 - 4.00,No,False,True,True,False
+47,2020-07-08,Female,19,engineering,year 1,3.50 - 4.00,No,False,True,False,False
+48,2020-07-08,Female,18,engine,year 4,3.50 - 4.00,No,False,False,False,False
+49,2020-07-08,Male,24,bcs,year 2,3.00 - 3.49,No,True,False,False,False
+50,2020-07-08,Female,24,bcs,year 3,3.50 - 4.00,No,False,False,True,False
+51,2020-07-08,Female,23,ala,year 1,2.50 - 2.99,Yes,True,False,True,True
+52,2020-07-08,Female,18,bcs,year 2,3.50 - 4.00,No,False,True,False,False
+53,2020-07-08,Female,19,biomedical science,year 3,3.00 - 3.49,No,False,False,False,False
+54,2020-07-08,Female,20,koe,year 3,3.00 - 3.49,Yes,True,True,True,False
+55,2020-07-08,Female,19,bcs,year 1,3.50 - 4.00,No,True,False,True,True
+56,2020-07-08,Male,21,bcs,year 1,3.00 - 3.49,No,False,False,False,False
+57,2020-07-08,Male,23,kirkhs,year 3,3.50 - 4.00,No,False,False,False,False
+58,2020-07-08,Female,20,benl,year 3,3.00 - 3.49,No,True,True,False,False
+59,2020-07-08,Female,18,bcs,year 1,3.50 - 4.00,No,False,False,False,False
+60,2020-07-08,Female,23,benl,year 1,3.00 - 3.49,No,False,False,False,False
+61,2020-07-08,Female,18,it,year 3,3.00 - 3.49,No,False,False,True,False
+62,2020-07-08,Female,19,bcs,year 1,3.50 - 4.00,No,False,False,False,False
+63,2020-07-08,Female,18,cts,year 1,3.50 - 4.00,No,False,False,True,False
+64,2020-07-08,Female,24,engin,year 1,3.50 - 4.00,No,False,False,True,False
+65,2020-07-08,Female,24,engine,year 1,3.50 - 4.00,No,False,False,False,False
+66,2020-07-08,Female,23,econs,year 1,3.50 - 4.00,No,True,True,False,False
+67,2020-07-08,Female,18,koe,year 3,3.00 - 3.49,No,False,True,False,False
+68,2020-07-08,Male,19,mhsc,year 3,3.00 - 3.49,Yes,True,False,True,False
+69,2020-07-08,Female,18,malcom,year 1,3.50 - 4.00,No,True,False,False,False
+70,2020-07-08,Female,24,kop,year 4,3.00 - 3.49,No,False,True,False,False
+71,2020-07-08,Female,24,biomedical science,year 1,3.00 - 3.49,No,False,False,False,False
+72,2020-07-08,Female,18,laws,year 3,3.50 - 4.00,No,False,False,True,False
+73,2020-07-08,Female,19,bit,year 3,3.00 - 3.49,Yes,True,False,False,False
+74,2020-07-09,Male,18,biomedical science,year 1,0 - 1.99,No,False,False,False,False
+75,2020-07-09,Male,24,bit,year 3,3.50 - 4.00,No,False,True,False,False
+76,2020-07-09,Female,24,koe,year 1,3.50 - 4.00,No,False,True,True,False
+77,2020-07-09,Female,23,engineering,year 1,3.00 - 3.49,No,True,False,False,False
+78,2020-07-09,Female,18,human sciences,year 2,3.00 - 3.49,No,False,False,True,False
+79,2020-07-13,Female,19,biotechnology,year 3,0 - 1.99,No,False,False,False,False
+80,2020-07-13,Female,18,engineering,year 4,3.50 - 4.00,No,False,False,False,False
+81,2020-07-13,Female,24,communication,year 2,3.50 - 4.00,Yes,True,True,True,False
+82,2020-07-13,Female,24,diploma nursing,year 2,3.50 - 4.00,No,False,False,False,False
+83,2020-07-13,Female,19,engineering,year 1,3.00 - 3.49,No,True,True,False,False
+84,2020-07-13,Female,19,pendidikan islam,year 2,3.00 - 3.49,No,False,False,False,False
+85,2020-07-13,Male,23,radiography,year 1,3.00 - 3.49,No,False,False,False,False
+86,2020-07-13,Female,18,psychology,year 1,3.50 - 4.00,No,True,True,False,True
+87,2020-07-13,Female,19,fiqh fatwa,year 3,3.00 - 3.49,No,False,False,False,False
+88,2020-07-13,Female,18,psychology,year 1,3.50 - 4.00,No,True,True,True,False
+89,2020-07-13,Male,24,bit,year 1,3.00 - 3.49,No,False,True,False,False
+90,2020-07-13,Male,24,engineering,year 2,2.00 - 2.49,No,False,False,True,False
+91,2020-07-13,Female,23,diploma tesl,year 3,3.50 - 4.00,No,False,False,True,False
+92,2020-07-13,Male,18,koe,year 2,3.00 - 3.49,No,False,True,False,False
+93,2020-07-13,Female,19,koe,year 2,3.00 - 3.49,Yes,True,False,False,False
+94,2020-07-13,Female,18,benl,year 1,3.00 - 3.49,No,True,False,False,False
+95,2020-07-13,Female,24,fiqh,year 3,0 - 1.99,No,False,False,True,False
+96,2020-07-13,Female,18,pendidikan Islam,year 1,3.50 - 4.00,No,False,False,False,False
+97,2020-07-13,Female,21,bcs,year 1,3.50 - 4.00,No,False,True,False,False
+98,2020-07-13,Male,18,engineering,year 2,3.00 - 3.49,No,True,True,False,False
+99,2020-07-13,Female,19,nursing,year 3,3.50 - 4.00,Yes,True,False,True,False
+100,2020-07-13,Female,23,pendidikan islam,year 4,3.50 - 4.00,No,False,False,False,False
+101,2020-07-18,Male,20,biomedical science,year 2,3.00 - 3.49,No,False,False,False,False
